@@ -1,1 +1,1 @@
-love coffee, autumn, trees, books, and oss ☕ 🍁 🪴 📚 💻
+love coffee, autumn, trees, books, and oss ☕ 🍁 🪴 📚 💻 (currently learning computer graphics)
