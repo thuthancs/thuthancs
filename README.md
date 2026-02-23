@@ -1,6 +1,6 @@
 love coffee, autumn, trees, books, and oss ☕ 🍁 🪴 📚 💻 (currently learning computer graphics)
 
-rabbit-hole [project](https://austinhenley.com/blog/morechallengingprojects.html) [wishlist](https://austinhenley.com/blog/challengingprojects.html):)
+rabbit-hole [project](https://austinhenley.com/blog/morechallengingprojects.html) [wishlist](https://austinhenley.com/blog/challengingprojects.html) :)
 - [x] ray tracer
 - [ ] key-value store web API
 - [ ] web browser
